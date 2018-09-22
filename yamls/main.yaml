@@ -1,0 +1,13 @@
+swagger: '2.0'
+info:
+  title: api
+  description: 'api swagger文档'
+  termsOfService: ''
+  contact:
+    email: 2595389179@qq.com
+  version: 1.0.0
+
+
+host: 'localhost'
+basePath: /api/public/api
+$ref#common: "./common.yaml"
