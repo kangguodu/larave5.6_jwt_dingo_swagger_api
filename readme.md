@@ -8,5 +8,4 @@
          API_STRICT=false
          API_DEBUG=false
 6.数据库 api.sql
-7.还差对api返回结果格式的定义
 
